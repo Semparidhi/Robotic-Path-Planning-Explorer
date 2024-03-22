@@ -1,6 +1,4 @@
-<div align="center">
-<img src="media/1.png"/>
-</div>
+#Robotic Path Planning Explorer
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
