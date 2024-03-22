@@ -1,6 +1,6 @@
-#Robotic Path Planning Explorer
+# Robotic Path Planning Explorer
 
-# Table of Contents
+## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Local Planner Visualization Project (LPVP)](#local-planner-visualization-project-lpvp)
 - [Features](#features)
@@ -18,13 +18,13 @@
 
 # Robotic Path Planning Explorer
 
-LPVP serves to provide a single application to visualize numerous different local planner algorithms
+Robotic Path Planning Explorer serves to provide a single application to visualize numerous different local planner algorithms
 used in Autonomous Vehicle path planning and mobile robotics. The application 
 provides customizable parameters to better understand the inner workings of each algorithm and explore their strengths and
 drawbacks. It is written in Python and uses Pygame to render the visualizations.
 
 ![App Preview](media/lpvp.gif)
-<!-- add proper gif link -->
+
 
 
 # Features
